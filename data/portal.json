@@ -1,0 +1,29 @@
+{
+    "name": "My portal",
+    "url": "http:\/\/sky.dittotvv.cc\/stalker_portal\/c\/",
+    "mac": "00:1A:79:6E:9F:B7",
+    "model": "MAG250",
+    "success": true,
+    "token": "4ECC2D159C40BF71C1F2348EC4D3959B",
+    "random": "f1d8a731dd74c8aec01e012b0f27d6e5e487eb56",
+    "device": {
+        "mac": "00:1A:79:6E:9F:B7",
+        "sn": "0B6D5D9870118E0AE2275ECD83914FBC",
+        "snCut": "0B6D5D9870118",
+        "deviceId": "B2922EF04E93FF29A89669A743DD941EC05D647272EFCE19ED4BDC632DEE9AFE",
+        "deviceId2": "B2922EF04E93FF29A89669A743DD941EC05D647272EFCE19ED4BDC632DEE9AFE",
+        "signature": "718C73F65F1CA5CACD17C43F10F375FB06608D3FBFC9F97128FB6889BC092F48",
+        "model": "MAG250"
+    },
+    "server_url": "http:\/\/sky.dittotvv.cc\/stalker_portal\/server\/load.php",
+    "portal_base": "http:\/\/sky.dittotvv.cc\/stalker_portal\/c\/",
+    "profile": {
+        "login": "alexie245",
+        "id": "249448",
+        "name": "",
+        "expiry": "2026-04-25 04:00:00",
+        "password": "7777",
+        "tariff": ""
+    },
+    "saved_at": "2026-03-27 09:25:49"
+}
